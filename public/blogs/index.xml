@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Hugo Profile</title>
+    <link>http://localhost:55339/blogs/</link>
+    <description>Recent content in Blogs on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2025 00:28:19 +0530</lastBuildDate>
+    <atom:link href="http://localhost:55339/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Practical Guide to Redux Toolkit: Simplifying State Management in Modern React Applications</title>
+      <link>http://localhost:55339/blogs/redux-state-manage-post/</link>
+      <pubDate>Wed, 02 Apr 2025 00:28:19 +0530</pubDate>
+      <guid>http://localhost:55339/blogs/redux-state-manage-post/</guid>
+      <description>&lt;p&gt;Redux has long been a go-to framework for managing state in React applications, but anyone who’s used it knows that it can come with a lot of boilerplate. Setting up stores, creating actions, handling reducers, and managing middleware can become time-consuming and complex. Redux Toolkit (RTK) is designed to change that—it’s a popular tool that simplifies Redux development while still sticking to core Redux principles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automating UI tests in React with Cypress</title>
+      <link>http://localhost:55339/blogs/ui-testing-post/</link>
+      <pubDate>Wed, 02 Apr 2025 00:28:19 +0530</pubDate>
+      <guid>http://localhost:55339/blogs/ui-testing-post/</guid>
+      <description>&lt;p&gt;In modern web development, ensuring a seamless user experience is crucial. As React applications grow in complexity, manual testing becomes inefficient and error prone. This is where automated UI testing comes in, helping developers catch bugs early and maintain application stability. Cypress has emerged as a popular choice for end-to-end (E2E) testing, offering a fast, reliable, and developer-friendly way to test React applications. Unlike traditional testing frameworks, Cypress runs directly in the browser, providing real-time feedback and powerful debugging tools.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
