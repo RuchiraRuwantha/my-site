@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:55339/blogs/redux-state-manage-post/</loc>
+    <loc>https://hugo-profile.netlify.app/blogs/redux-state-manage-post/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/blogs/ui-testing-post/</loc>
+    <loc>https://hugo-profile.netlify.app/blogs/ui-testing-post/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/blogs/</loc>
+    <loc>https://hugo-profile.netlify.app/blogs/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/tags/emoji-support/</loc>
+    <loc>https://hugo-profile.netlify.app/tags/emoji-support/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/tags/example/</loc>
+    <loc>https://hugo-profile.netlify.app/tags/example/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/</loc>
+    <loc>https://hugo-profile.netlify.app/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/tags/sample/</loc>
+    <loc>https://hugo-profile.netlify.app/tags/sample/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/tags/</loc>
+    <loc>https://hugo-profile.netlify.app/tags/</loc>
     <lastmod>2025-04-02T00:28:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:55339/categories/</loc>
+    <loc>https://hugo-profile.netlify.app/categories/</loc>
   </url>
 </urlset>
